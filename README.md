@@ -2,11 +2,17 @@
 My HomeLab✨
 
 جاري الكتابة...
-### 📋 نظرة عامة على الخدمات (Services Overview)
+## 📋 نظرة عامة على الخدمات (Services Overview)
 
 | الخدمة (Service) | الوظيفة (Role) | الوصول (Access) |
-| :--- | :--- | :---: | :--- |
-| **[jellyfin](https://media.heronyaa.dev)** | بث الميديا (Media Server) | 🌐 Public (Tunnel) |
+| :--- | :--- | :---: |
+| **[Jellyfin](https://media.heronyaa.dev)** | بث الميديا (Media Server) | 🌐 Public (Tunnel) |
+| **[Jellyseerr](https://requests.heronyaa.dev)** | واجهة طلبات المحتوى (Requests) | 🌐 Public (Tunnel) |
+| **[Homarr](https://home.heronyaa.dev)** | لوحة التحكم المركزية (Dashboard) | 🌐 Public (Tunnel) |
+| **[Sonarr](http://100.x.x.x:8989)** | إدارة وتنظيم المسلسلات (TV) | 🔐 Private (Tailscale) |
+| **[Prowlarr](http://100.x.x.x:9696)** | إدارة الفهرسة والبحث (Indexers) | 🔐 Private (Tailscale) |
+| **[Transmission](http://100.x.x.x:9091)** | محرك التحميل (Torrent Client) | 🔐 Private (Tailscale) |
+| **[Pi-hole](http://100.x.x.x/admin)** | حماية الشبكة وحجب الإعلانات | 🏠 Local (VPN) |
+| **[Dashdot](http://100.x.x.x:3001)** | مراقب موارد السيرفر (Real-time) | 🔐 Private (Tailscale) |
 
-
-
+---
