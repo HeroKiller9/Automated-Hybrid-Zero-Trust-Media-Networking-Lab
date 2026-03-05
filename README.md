@@ -61,4 +61,5 @@ Lab (مختبر): المشروع أصبح بيئة للتجارب والتعلم
 | <br> **[Sonarr](https://github.com/linuxserver/docker-sonarr)** <br><br> | الأداة المسؤولة عن أتمتة وتنظيم المسلسلات التلفزيونية (TV Shows) وجدولة الحلقات الجديدة
 
 
-# The OSI
+# Media-System The Media Stack OSI Model
+![Media-System The Media Stack OSI Model](Media-System%20The%20Media%20Stack%20OSI%20Model.png)
