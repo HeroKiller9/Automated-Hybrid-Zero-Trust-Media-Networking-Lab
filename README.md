@@ -114,3 +114,8 @@ Lab (مختبر): المشروع أصبح بيئة للتجارب والتعلم
 
 عناوين IP ثابتة: يعطي كل جهاز من أجهزتك عنوان IP خاصاً به (يبدأ غالباً بـ 100.x.y.z) يظل ثابتاً ولا يتغير
 
+---
+
+## License
+
+This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) file for more details.
