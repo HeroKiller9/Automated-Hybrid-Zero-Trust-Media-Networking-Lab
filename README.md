@@ -52,7 +52,7 @@ Lab (مختبر): المشروع أصبح بيئة للتجارب والتعلم
 
 # نظرة عامة على الخدمات (media-system)
 
-| الخدمة (Service) | الوظيفة (Role) |
+| الحاوية | الوظيفة  |
 | :--- | :--- |
 | <br> **[Jellyfin](https://github.com/linuxserver/docker-jellyfin)** <br><br> | نظام لبث الوسائط (Media Server) مفتوح المصدر بالكامل، يوفر تجربة مشاهدة سينمائية بدون قيود
 | <br> **[Jellyseerr](https://github.com/seerr-team/seerr)** <br><br> | واجهة أمامية (Frontend) لإدارة طلبات المحتوى، تسهل على المستخدمين العثور على ما يريدون
