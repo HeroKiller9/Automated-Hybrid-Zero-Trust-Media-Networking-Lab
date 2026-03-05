@@ -6,4 +6,4 @@ My HomeLab✨
 
 | الخدمة (Service) | الوظيفة (Role) | الوصول (Access) | الرابط (Link) |
 | :--- | :--- | :---: | :--- |
-| **[مشاهدة الآن](https://media.heronyaa.dev)** | بث الميديا (Media Server) | 🌐 Public (Tunnel) | [مشاهدة الآن](https://media.heronyaa.dev) |
+| **[مشاهدة الآن](https://media.heronyaa.dev)** | بث الميديا (Media Server) | 🌐 Public (Tunnel) | [جيفلين](https://media.heronyaa.dev) |
