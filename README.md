@@ -108,6 +108,19 @@ Lab (مختبر): المشروع أصبح بيئة للتجارب والتعلم
 
 عناوين IP ثابتة: يعطي كل جهاز من أجهزتك عنوان IP خاصاً به (يبدأ غالباً بـ 100.x.y.z) يظل ثابتاً ولا يتغير
 
-```text
-MIT License
-Copyright (c) 2024
+---
+
+## 📜 License & Tech Stack
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+[![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)](https://www.docker.com/)
+[![Raspberry Pi 5](https://img.shields.io/badge/Raspberry%20Pi%205-C51A4A?style=flat&logo=Raspberry-Pi&logoColor=white)](https://www.raspberrypi.com/)
+[![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat&logo=Cloudflare&logoColor=white)](https://www.cloudflare.com/)
+[![Tailscale](https://img.shields.io/badge/Tailscale-5D5D5D?style=flat&logo=Tailscale&logoColor=white)](https://tailscale.com/)
+
+<div dir="rtl">
+هذا المشروع مرخص بموجب رخصة <b>MIT</b>. يمكنك استخدامه وتعديله وتوزيعه بحرية. 
+لمزيد من التفاصيل، يرجى مراجعة ملف <a href="LICENSE">LICENSE</a>.
+</div>
+
+---
