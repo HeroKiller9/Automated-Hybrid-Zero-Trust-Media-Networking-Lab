@@ -67,7 +67,7 @@ Lab (مختبر): المشروع أصبح بيئة للتجارب والتعلم
 | الطبقة (OSI Layer) | الحاوية/المكون (Container) | الدور الوظيفي (Functional Role) | المنطق البرمجي والشبكي (Logic Flow) |
 | :--- | :--- | :--- | ---: |
 | **L7 - Application** | `Jellyseerr` | User Interface & Request | نقطة انطلاق "الطلب" (**HTTP Request**). يستقبل بحث المستخدم ويرسله عبر **API** |
-| **L6 - Presentation** | `Jellyfin` | Media Visualization | تحويل الملفات الخام إلى مكتبة بصرية، وإدارة الـ **Transcoding** لضمان العرض. |
+| **L6 - Presentation** | `Jellyfin` | Media Visualization | تحويل الملفات الخام إلى مكتبة بصرية، وإدارة الـ **Transcoding** لضمان العرض |
 | **L5 - Session** | `Sonarr` & `Prowlarr` | Automation Orchestration | إدارة "حوار" البحث والتنسيق. يفتح جلسة عمل لترجمة الطلبات ومراقبة حالة المحتوى |
 | **L4 - Transport** | `Transmission` | Data Download Engine | تنفيذ عملية نقل البيانات الفعلية باستخدام بروتوكولات الـ **P2P** وضمان وصول الملفات |
 | **L3 - Network** | `Zero-Trust Tunnel` | Secure Routing | التوجيه الآمن والتحقق من الهوية قبل السماح بالوصول (من **Local** إلى **Remote**) |
