@@ -119,8 +119,5 @@ Lab (مختبر): المشروع أصبح بيئة للتجارب والتعلم
 [![Tailscale](https://img.shields.io/badge/Tailscale-5D5D5D?style=flat&logo=Tailscale&logoColor=white)](https://tailscale.com/)
 
 <div dir="rtl">
-هذا المشروع مرخص بموجب رخصة <b>MIT</b>. يمكنك استخدامه وتعديله وتوزيعه بحرية. 
-لمزيد من التفاصيل، يرجى مراجعة ملف <a href="LICENSE">LICENSE</a>.
-</div>
 
 ---
