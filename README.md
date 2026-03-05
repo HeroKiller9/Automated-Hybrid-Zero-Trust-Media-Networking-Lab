@@ -54,10 +54,10 @@ Lab (مختبر): المشروع أصبح بيئة للتجارب والتعلم
 
 | الخدمة (Service) | الوظيفة (Role) ||
 | :--- | :--- | :---: |
-| **[Jellyfin](https://github.com/linuxserver/docker-jellyfin)** | نظام لبث الوسائط (Media Server) مفتوح المصدر بالكامل | 🌐 Public (Tunnel) |
-| **[Jellyseerr](https://github.com/seerr-team/seerr)** | هو نظام إدارة طلبات المحتوى (Overseerr fork) يعمل كواجهة أمامية (Frontend) للمستخدمين | 🌐 Public (Tunnel) |
-| **[Prowlarr](https://github.com/linuxserver/docker-prowlarr)** | أداة لإدارة الـ Indexers (مواقع التورنت) | 🔐 Private (Tailscale) |
-| **[Transmission](https://github.com/linuxserver/docker-transmission)** | عميل تورنت (BitTorrent Client) خفيف جداً وموثوق| 🔐 Private (Tailscale) |
-| **[Sonarr](https://github.com/linuxserver/docker-sonarr)** | أداة إدارة وتنظيم المسلسلات التلفزيونية (TV Shows) | 🔐 Private (Tailscale) |
+| **[Jellyfin](https://github.com/linuxserver/docker-jellyfin)** | نظام لبث الوسائط (Media Server) مفتوح المصدر بالكامل |
+| **[Jellyseerr](https://github.com/seerr-team/seerr)** | هو نظام إدارة طلبات المحتوى (Overseerr fork) يعمل كواجهة أمامية (Frontend) للمستخدمين | 
+| **[Prowlarr](https://github.com/linuxserver/docker-prowlarr)** | أداة لإدارة الـ Indexers (مواقع التورنت) | 
+| **[Transmission](https://github.com/linuxserver/docker-transmission)** | عميل تورنت (BitTorrent Client) خفيف جداً وموثوق| 
+| **[Sonarr](https://github.com/linuxserver/docker-sonarr)** | أداة إدارة وتنظيم المسلسلات التلفزيونية (TV Shows) | 
 
 ---
