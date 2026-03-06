@@ -53,6 +53,8 @@ Lab (مختبر): المشروع أصبح بيئة للتجارب والتعلم
 4-[Cloudflare](https://www.cloudflare.com/)
 <br>
 5-[Tailscale](https://tailscale.com/)
+<br>
+6-[Ansible](https://docs.ansible.com/)
 
 
 
