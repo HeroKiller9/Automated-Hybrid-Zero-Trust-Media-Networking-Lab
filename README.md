@@ -93,7 +93,9 @@ Lab (مختبر): المشروع أصبح بيئة للتجارب والتعلم
 | <br> **[Dockge](https://dockge.kuma.pet/)** <br><br> | Docker Stack Manager | واجهة رسومية تفاعلية لإدارة ملفات docker-compose.yml؛ تسمح لك بإنشاء، تعديل، وتشغيل الحاويات بسهولة مع عرض حي للحالة والـ Logs |
 
 ---
-# بنية المجلدات (Directory Structure)
+### بنية المجلدات (Directory Structure)
+
+```text
 HomeLab/
 ├── Dockge/
 ├── Media-Stack/
@@ -106,6 +108,7 @@ HomeLab/
     ├── dashdot/
     ├── homarr/
     └── pihole/
+
 
 # الأستضافة الذاتية (self hosted)
 | المكون (Component) | الوظيفة (Role) | الوصف التشغيلي (Operational Description) |
