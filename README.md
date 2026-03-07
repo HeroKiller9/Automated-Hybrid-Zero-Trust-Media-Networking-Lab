@@ -108,8 +108,7 @@ HomeLab/
     ├── dashdot/
     ├── homarr/
     └── pihole/
-
-
+```
 # الأستضافة الذاتية (self hosted)
 | المكون (Component) | الوظيفة (Role) | الوصف التشغيلي (Operational Description) |
 | :--- | :--- | ---: |
