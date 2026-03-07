@@ -1,4 +1,4 @@
-# This is Dockge
+# This is Dockge, Docker Stack Manager
 services:
   dockge:
     image: louislam/dockge:latest
@@ -13,3 +13,4 @@ services:
     environment: 
 
       - DOCKGE_STACKS_DIR=/home/${USER}/HomeLab
+
