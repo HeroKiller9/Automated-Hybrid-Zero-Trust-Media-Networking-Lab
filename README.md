@@ -84,7 +84,7 @@ Lab (مختبر): المشروع أصبح بيئة للتجارب والتعلم
 
 ---
 
-# المراقبة (Monitoring-stack)
+# المراقبة (Monitoring-Stack)
 | الأداة (Tool) | الوظيفة (Role) | الوصف التشغيلي (Operational Description) |
 | :--- | :--- | ---: |
 | <br> **[Homarr](https://homarr.dev/)** <br><br> | البوابة التشغيلية (Operational Dashboard) | يعمل كواجهة مركزية للسيرفر؛ يجمع لك كل خدماتك في واجهة بصرية واحدة سهلة الوصول |
